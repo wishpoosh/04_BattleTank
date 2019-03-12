@@ -5,5 +5,6 @@ Unreal course tutorial
 
 * GDD
 * Playing with repos
+* setting up REPO
 
 
